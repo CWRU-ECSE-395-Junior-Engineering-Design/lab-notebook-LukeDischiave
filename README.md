@@ -1,5 +1,5 @@
 Luke Dischiave
-ECSE 395 Lab Notebook
+ECSE 395 Lab Notebook Week #1
 01/17/25
 
 Purpose: To set up github classroom for the remaining semester and learn github/markdown basics.
