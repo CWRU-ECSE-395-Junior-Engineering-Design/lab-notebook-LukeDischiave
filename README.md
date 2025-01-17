@@ -2,7 +2,7 @@ Luke Dischiave
 ECSE 395 Lab Notebook
 Lab #1
 
-Purpose: To set up github classroom for the remaining semester and learn github/markdown basics
+Purpose: To set up github classroom for the remaining semester and learn github/markdown basics. To learn how to progam ESP32 microcontroller 
 
 Numbered list of steps I did to complete:
 1.) Used github desktop to clone lab-notebook-LukeDischiave to my github
