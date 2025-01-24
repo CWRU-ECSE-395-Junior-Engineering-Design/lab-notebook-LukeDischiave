@@ -1,2 +1,4 @@
 # Table of Contents:
-	Week 1 of ECSE 395: Making ESP blinking
+	Week1.md: 
+	Setting up github and using adafruit website to get the ESP microcontroller to blink
+	
