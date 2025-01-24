@@ -25,4 +25,4 @@
 # Reflection:
 ## Joe got farther than us in the lab so he copied the code to the ESP32 first. Rob and I were figuring out how to complete the rest of the lab. There was an error with Joe's computer and the ESP32 microcontroller. This was on 1/17.
 
-## On 1/24, I proceeded to finish the blinking ESP. 
+## On 1/24, I proceeded to get the LEDs blinking
