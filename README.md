@@ -1,2 +1,2 @@
-Table of Contents:
-Week1 of ECSE 395: Making ESP blinking
+# Table of Contents:
+	Week 1 of ECSE 395: Making ESP blinking
