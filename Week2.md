@@ -26,10 +26,15 @@
 ## 8.) Now I start lab #2
 ## 9.) I changed the serial print message to: 
 	  Serial.println("안녕하세요!");
-	
 ## 10.) I changed the frequency of the blinks so that it blinks twice as fast
 ## 11.) I took video and uploaded new code to github
 
 # Reflection:
+## 1.) How long did it take you to complete this assignment?
+## 2.) What level of difficulty would you associate with this assignment?
+### Low
+## 3.) If you associated medium/high difficulty with this assignment, what aspect did you find the most difficult?
+### N/A
 
-
+## 4.) How comfortable do you currently feel with the course content?
+### I'm reasonably comfortable now with the content
