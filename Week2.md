@@ -4,7 +4,7 @@
 ## 01/17/25, 1/24/25
 
 # Purpose: 
-## To learn how to progam ESP32 microcontroller 
+## To learn how to progam ESP32 microcontroller using Arduino IDE and also modify existing code so that it behaves differently
 
 # Numbered list of steps I did to complete:
 ## 1.) Installed latest Arduino IDE and drivers according to the tutorial on canvas
@@ -20,9 +20,16 @@
 ## to
 	int led = LED_BUILTIN;
 ## The original code now compiles
-## 6.) I push the code to the ESP and voila, it work!
+## 6.) I push the code to the ESP and voila, it works!
+## 7.) I take video of ESP32 blinking
+
+## 8.) Now I start lab #2
+## 9.) I changed the serial print message to: 
+	  Serial.println("안녕하세요!");
+	
+## 10.) I changed the frequency of the blinks so that it blinks twice as fast
+## 11.) I took video and uploaded new code to github
 
 # Reflection:
-## Joe got farther than us in the lab so he copied the code to the ESP32 first. Rob and I were figuring out how to complete the rest of the lab. There was an error with Joe's computer and the ESP32 microcontroller. This was on 1/17.
 
-## On 1/24, I proceeded to get the LEDs blinking on the ESP32. I did not start Lab #2.
+
