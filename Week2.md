@@ -1,6 +1,6 @@
 ## Luke Dischiave
 ## ECSE 395 
-## Lab #1: ESP32
+## Lab #1 & 2: ESP32
 ## 01/17/25, 1/24/25
 
 # Purpose: 
