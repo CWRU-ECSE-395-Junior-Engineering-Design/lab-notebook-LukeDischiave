@@ -31,6 +31,7 @@
 
 # Reflection:
 ## 1.) How long did it take you to complete this assignment?
+### 1hr or less
 ## 2.) What level of difficulty would you associate with this assignment?
 ### Low
 ## 3.) If you associated medium/high difficulty with this assignment, what aspect did you find the most difficult?
