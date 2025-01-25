@@ -4,7 +4,7 @@
 ## 01/17/25, 1/24/25
 
 # Purpose: 
-## To learn how to progam ESP32 microcontroller using Arduino IDE and also modify existing code so that it behaves differently
+## To learn how to program ESP32 microcontroller using Arduino IDE and also modify existing code so that it behaves differently
 
 # Numbered list of steps I did to complete:
 ## 1.) Installed latest Arduino IDE and drivers according to the tutorial on canvas
