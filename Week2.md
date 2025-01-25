@@ -38,3 +38,6 @@
 
 ## 4.) How comfortable do you currently feel with the course content?
 ### I'm reasonably comfortable now with the content
+
+## 5.) Do you have any additional information or feedback you would like to share with the instructors?
+### Personally, I feel like the assignments are a little too verbose and this might be causing a little confusing for me. If they were worded a bit more concisely, it might be easier for me to understand.
