@@ -64,11 +64,11 @@
 	digitalWrite(ledPin, LOW);    // turn the LED off when no touch is detected
 ### 13.) I verified and uploaded the code to the ESP32
 ### 14.) I tested and confirmed that the code works as intended. Now every time I press the sensor, the LED blinks.
-### 15.) I take pictures of my github, the circuit, and a working video to upload to canvas. 
+### 15.) I take pictures of my github, the circuit, and a working video to upload to canvas. I uploaded the arduino code under sensor_blink_code in my github repo.
 # Reflection:
 ## 1.) How long did it take you to complete this assignment?  
 ### The lab-part of the assignment took me until the lab finished, so it was a very reasonable amount of time.
-### I have not started the take-home part just yet.
+### Take-home part took around the same amount of time as the lab part. I'd say it's maybe a little long, especially considering how much documentation goes into this. Although I'm sure I'll get faster at this with time. 
 ## 2.) What level of difficulty would you associate with this assignment?  
 ### Low
 ## 3.) If you associated medium/high difficulty with this assignment, what aspect did you find the most difficult?  
