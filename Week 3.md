@@ -37,6 +37,34 @@
 	   Serial.println(sensorVoltage); // printing voltage to serial monitor
 	   delay(100);                              // Wait for 100 milliseconds
 ### 12.) I verified and uploaded the code to the ESP32. It compiled first try and upon checking the serial monitor, the voltage reading was indeed being varied by the pot! Although, it was rounding to the nearest integer.
+
+## 2/1: I start take home portion
+
+### 1.) I get the breadboard, ESP32, usb c cable, and touch sensor from my kit
+### 2.) I open the lab manual and go to the linked website in part 2: https://docs.sunfounder.com/projects/umsk/en/latest/03_esp32/esp32_lesson22_touch_sensor.html
+
+### 3.) I wire the 3v of the breadboard to the pos. rail of breadboard, gnd to the neg. rail, and analog A0 to the IO port of the touch sensor. For the touch sensor, I wire VCC to the pos. rail of the breadboard, and for GND I wire that to the neg. rail of the breadboard.
+### 4.) I plug the ESP32 into my computer and launch arduino IDE.
+### 5.) I copy and paste the code from website into arduino IDE.
+### 6.) I modify a line of code to fit my setup:
+	const int sensorPin = 25;
+### to
+	const int sensorPin = A0;
+#### 7.) I verified and uploaded the code to the ESP32, no issues. 
+### 8.) I launched serial monitor to verify that the sensor indeed works. It looks like both sides of the circuit board in the large circular area detect touch.
+### 9.) Now I set out to modify the code according to the lab manual. I need to get the LED to blink when I touch the sensor. 
+### 10.) I go back into my esp32-blink-project to view the code and see what line to add to declare the built-in LED. I added the following code: 
+	// Define the Built-in LED 
+	int ledPin = LED_BUILTIN;
+### 11.) Below where we declared the sensorPin as an input, I add this line code to declare the led pin as an output:
+	  pinMode(ledPin, OUTPUT);        // Set the built-in LED as output
+### 12.) In the main loop, I added the following lines of code in order to turn the led on when the sensor is touched and turn the led off when there is no touch on the sensor.
+	digitalWrite(ledPin, HIGH);   // turn the LED on when touch is detected
+### and
+	digitalWrite(ledPin, LOW);    // turn the LED off when no touch is detected
+### 13.) I verified and uploaded the code to the ESP32
+### 14.) I tested and confirmed that the code works as intended. Now every time I press the sensor, the LED blinks.
+### 15.) I take pictures of my github, the circuit, and a working video to upload to canvas. 
 # Reflection:
 ## 1.) How long did it take you to complete this assignment?  
 ### The lab-part of the assignment took me until the lab finished, so it was a very reasonable amount of time.
