@@ -48,3 +48,18 @@
 ### Very comfortable
 ## 5. Do you have any additional information or feedback you would like to share with the instructors?
 ### Not at the moment
+
+# In-class 1/29; Out of class 2/1
+## My team and I created virtual sticky notes to represent facts on the problem situation that we are designing for, based off the interview with the stakeholder (affinity clustering). We created several categories: inferences, implementation, problems, people, and cats. After class, we committed to create one persona per person for a total of three. Attached is the persona I created and the affinity clustering.
+![[Pasted image 20250201230826.png]]
+![[Pasted image 20250201230215.png]]
+## Reflection
+## 1. How long did it take you to complete this assignment?  
+### About 1-2 hours
+## 2. What level of difficulty would you associate with this assignment?  
+### Easy
+## 3. If you associated medium/high difficulty with this assignment, what aspect did you find the most difficult?  
+## 4. How comfortable do you currently feel with the course content?
+### Comfortable
+## 5. Do you have any additional information or feedback you would like to share with the instructors? 
+### Not at the moment
