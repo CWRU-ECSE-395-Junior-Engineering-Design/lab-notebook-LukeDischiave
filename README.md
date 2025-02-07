@@ -1,3 +1,4 @@
+### This is a repo that documents what I am doing in-class and out of class for every week in ECSE 395, junior design engineering seminar. 
 # Table of Contents:
 ## Week1.md: 
 ### Setting up github and using adafruit website to get the ESP microcontroller to blink. Mostly trying to understand how to upload to github.  Started lab 1. 
@@ -6,3 +7,6 @@
 
 ## Week 3.md:
 ### Finished lab 3. Involved using potentiometer and touch sensor with arduino, with help from code from sunfounder website. Completed affinity clustering and persona creation in-class. 
+
+## Week4.md:
+### Fixing project plan and project concept; fixing code and submission errors; working on lab 4; added short description of this document to the top; submitted stakeholder introduction/affinity clustering video.
