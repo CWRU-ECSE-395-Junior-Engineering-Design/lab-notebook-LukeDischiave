@@ -27,7 +27,7 @@
 	delay(50);                              // Wait for 50 milliseconds
 ### 9.) I created a new float called sensorVoltage to store the voltage that is being read at the data line A0. I used the formula: Voltage = AnalogValue × ReferenceVoltage / Resolution. For AnalogValue I used the sensorValue, for ReferenceVoltage, I used 3v, and for Resolution I used 4095, which is the max value of the pot.
 	  int sensorValue = analogRead(sensorPin); // storing 'sensorPin' value in sensorValue 
-	  float sensorVoltage = (sensorValue * 3) / 4095; // calculating voltage from sensor pin value, reference voltage, and resolution of pot
+	  float sensorVoltage = (sensorValue * 3.3) / 4095; // calculating voltage from sensor pin value, reference voltage, and resolution of pot
 	  delay(50);                              // Wait for 50 milliseconds
 ### 10.) I added the following code after finding sensorVoltage to monitor the voltage on the serial bus
 	  Serial.println(sensorVoltage); // printing voltage to serial monitor
@@ -65,6 +65,8 @@
 ### 13.) I verified and uploaded the code to the ESP32
 ### 14.) I tested and confirmed that the code works as intended. Now every time I press the sensor, the LED blinks.
 ### 15.) I take pictures of my github, the circuit, and a working video to upload to canvas. I uploaded the arduino code under sensor_blink_code in my github repo.
+
+### (2/6): Fix the potentiometer code, changing voltage to 3.3 volts and uploading to github
 # Reflection:
 ## 1.) How long did it take you to complete this assignment?  
 ### The lab-part of the assignment took me until the lab finished, so it was a very reasonable amount of time.
