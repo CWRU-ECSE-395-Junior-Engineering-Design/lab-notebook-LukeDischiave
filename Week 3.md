@@ -81,8 +81,8 @@
 
 # In-class 1/29; Out of class 2/1
 ## My team and I created virtual sticky notes to represent facts on the problem situation that we are designing for, based off the interview with the stakeholder (affinity clustering). We created several categories: inferences, implementation, problems, people, and cats. After class, we committed to create one persona per person for a total of three. Attached is the persona I created and the affinity clustering.
-![[Pasted image 20250201230826.png]]
-![[Pasted image 20250201230215.png]]
+![](Pasted%20image%2020250207100755.png)
+![](Screenshot%202025-02-01%20230203.png)
 ## Reflection
 ## 1. How long did it take you to complete this assignment?  
 ### About 1-2 hours
