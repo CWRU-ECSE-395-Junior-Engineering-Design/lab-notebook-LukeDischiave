@@ -58,10 +58,32 @@
 ### 6.) I changed numerous parameters and noted the changes in the motor
 
 ### 7.) Changed delay of first rotation to 10, and changed angle of second rotation to 90deg, with delay of 5 so it would be faster.
+	for (int angle = 0; angle <= 180; angle++) {
+	int pulseWidth = map(angle, 0, 180, minPulseWidth, maxPulseWidth);
+	myServo.writeMicroseconds(pulseWidth);
+	delay(10); // reduced delay to 10
+	  }
+	  // Rotate the servo from 90 to 0 degrees
+
+	 for (int angle = 90; angle >= 0; angle--) {
+
+	 int pulseWidth = map(angle, 0, 180, minPulseWidth, maxPulseWidth);
+
+	  myServo.writeMicroseconds(pulseWidth);
+
+	  delay(5); // reduced delay to 5
+
+	  }
+### 8.) Uploaded videos of my modifications+ screenshot of lab notebook to canvas
 
 ## Reflection: 
 ### 1. How long did it take you to complete this assignment?  
+#### All of class time and about an hour outside of class
 ### 2. What level of difficulty would you associate with this assignment?  
+#### About the same as all the others, easy but a bit time consuming
 ### 3. If you associated medium/high difficulty with this assignment, what aspect did you find the most difficult?  
 ### 4. How comfortable do you currently feel with the course content?  
+#### Still very comfortable
 ### 5. Do you have any additional information or feedback you would like to share with the instructors?
+
+#### Not at the moment
