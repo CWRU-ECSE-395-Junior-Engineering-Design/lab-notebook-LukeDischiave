@@ -10,3 +10,8 @@
 
 ## Week4.md:
 ### Fixing project plan and project concept; fixing code and submission errors; working on lab 4; added short description of this document to the top; submitted stakeholder introduction/affinity clustering video.
+
+
+## Week5.md
+
+### Brainstormed 50 ideas with team in-class and finished out of class. Crafted class presentation to present stakeholder's problem, constraints, and our 3 best solutions (from 50 ideas) to the class. Finished lab #5. 
