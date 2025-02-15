@@ -15,27 +15,27 @@
 ### 5.) I connected the button pins 1, 2, 3 (sense, 3.3v, gnd) to Pin 33, -, and + on the breadboard respectively. I wired it so that when the button is pressed, the circuit opens, and 3.3v no longer flows to the sense pin.
 ### 6.) in setup, I set the RGB pins as outputs and the button sense pin as input. 
 ### 7.) I programmed my circuit so that the LED blinks through red, green and blue for 500ms each color, and then waits 500ms before sequencing again. When the button is pressed, it stops blinking after the current sequence is completed. The switch debounce delay is there to compensate for noise generated from the switch.
-	void loop() {	if (digitalRead(ButtonPin)) {  // switch closed?	
-	delay(40);                             // switch debounce delay	while (digitalRead(ButtonPin));        // wait for switch to open
-
-    digitalWrite(RedLED, HIGH);            // switch red LED on
-    delay(500);                            // leave LED on for 500ms
-    digitalWrite(RedLED, LOW);             // switch LED off
-
-    digitalWrite(GrnLED, HIGH);            // switch green LED on
-    delay(500);                            // leave Green LED on for 500ms
-    digitalWrite(GrnLED, LOW);             // switch LED off
-
-    digitalWrite(BluLED, HIGH);            // switch blue LED on
-    delay(500);                            // leave Blue LED on for 500ms
-    digitalWrite(BluLED, LOW);             // switch LED off
-    delay(500);                            // 500ms delay before loop begins again
-    }
-    else {
-    // switch open with pull-down resistor
-    digitalWrite(ButtonPin, LOW);           // switch LED off
-    }
-   }
+	void loop() {	
+	if (digitalRead(ButtonPin)) {  // switch closed?	
+	delay(40);                             // switch debounce delay
+	while (digitalRead(ButtonPin));
+	// wait for switch to open
+	    digitalWrite(RedLED, HIGH);            // switch red LED on
+	    delay(500);                            // leave LED on for 500ms
+	    digitalWrite(RedLED, LOW);             // switch LED off
+	    digitalWrite(GrnLED, HIGH);            // switch green LED on
+	    delay(500);                            // leave Green LED on for 500ms
+	    digitalWrite(GrnLED, LOW);             // switch LED off
+	    digitalWrite(BluLED, HIGH);            // switch blue LED on
+	    delay(500);                            // leave Blue LED on for 500ms
+	    digitalWrite(BluLED, LOW);             // switch LED off
+	    delay(500);                            // 500ms delay before loop begins again
+	    }
+	    else {
+	    // switch open with pull-down resistor
+	    digitalWrite(ButtonPin, LOW);           // switch LED off
+	    }
+	   }
 ### 8.) Uploaded code and it works as intended. It blinks through red, green, and blue. If I press and hold the button the blinking stops after it is done cycling through the colors
 # Reflection
 ## 1. How long did it take you to complete this assignment?  
