@@ -15,3 +15,6 @@
 ## Week5.md
 
 ### Brainstormed 50 ideas with team in-class and finished out of class. Crafted class presentation to present stakeholder's problem, constraints, and our 3 best solutions (from 50 ideas) to the class. Finished lab #5; worked with button and RGB led.
+
+## Week6.md
+### Second stakeholder meeting on Sunday. Fixed class presentation slides. Submitted lab #5. Finished the functional specs and started to brainstorm design ideas. 
