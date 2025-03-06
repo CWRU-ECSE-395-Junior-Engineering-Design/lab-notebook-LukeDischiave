@@ -18,3 +18,9 @@
 
 ## Week6.md
 ### Second stakeholder meeting on Sunday. Fixed class presentation slides. Submitted lab #5. Finished the functional specs and started to brainstorm design ideas. 
+
+## Week7.md
+### Brainstormed ideas for prototypes with team. Almost finished my prototype. It's a small, cardboard box that has sticky notes to test the button, switch, and LED portions of our design. Modified and submitted technical specs.
+
+## Week8.md
+### Our team met with Ju-Hung on Monday to discuss our project plan, technical and functional specs. I finished my prototype and recorded a test video. I also re-submitted various documents based on feedback from Dr. Block. 
