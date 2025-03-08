@@ -23,4 +23,4 @@
 ### Brainstormed ideas for prototypes with team. Almost finished my prototype. It's a small, cardboard box that has sticky notes to test the button, switch, and LED portions of our design. Modified and submitted technical specs.
 
 ## Week8.md
-### Our team met with Ju-Hung on Monday to discuss our project plan, technical and functional specs. I finished my prototype and recorded a test video. I also re-submitted various documents based on feedback from Dr. Block. 
+### Our team met with Ju-Hung on Monday to discuss our project plan, technical and functional specs. I finished my prototype and recorded a test video. I also re-submitted various documents based on feedback from Dr. Block. Lastly, I submitted our prototyping efforts document.
