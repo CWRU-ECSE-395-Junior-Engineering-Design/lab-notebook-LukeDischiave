@@ -3,7 +3,7 @@
 ## 02/7/25
 
 # Weekly activities:
-## I fixed our project plan and project concept to fit closer to the instructor's guidelines. We completed affinity clustering using figma, and submitted a video of our video going over our stakeholder's problem and our personas.
+## I fixed our project plan and project concept to fit closer to the instructor's guidelines. We completed affinity clustering using figma, and submitted a video of our video going over our stakeholder's problem and our personas. Our team also discussed in our meeting about different ideas that we had for implementing our cat bowl monitoring system
 
 # Lab #4:
 ## Purpose: To learn how to program ESP32 microcontroller and have it interact with motors
