@@ -24,3 +24,6 @@
 
 ## Week8.md
 ### Our team met with Ju-Hung on Monday to discuss our project plan, technical and functional specs. I finished my prototype and recorded a test video. I also re-submitted various documents based on feedback from Dr. Block. Lastly, I submitted our prototyping efforts document.
+
+## Week9.md
+### Our team asynchronously worked on and finished our midterm presentation for Friday 3/21. 
