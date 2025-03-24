@@ -27,3 +27,6 @@
 
 ## Week9.md
 ### Our team asynchronously worked on and finished our midterm presentation for Friday 3/21. 
+
+## Week10.md
+### Our team modifed our midterm presentation to make it more visually appealing and presented on friday.
