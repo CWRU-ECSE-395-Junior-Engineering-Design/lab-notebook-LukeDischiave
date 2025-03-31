@@ -33,3 +33,6 @@
 
 ## Week11.md
 ### Our team met and discussed the logistics for starting our prototype and what to buy/what to do during our class time. We also modified our timeline.
+
+## Week12.md
+### Our team is meeting and starting to assemble the prototype.
