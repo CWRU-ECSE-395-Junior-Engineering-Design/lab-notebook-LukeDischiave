@@ -29,7 +29,7 @@
 ### Our team asynchronously worked on and finished our midterm presentation for Friday 3/21. 
 
 ## Week10.md
-### Our team modifed our midterm presentation to make it more visually appealing and presented on friday.
+### Our team modifed our midterm presentation to make it more visually appealing and presented on friday and drafted our first timeline.
 
 ## Week11.md
-### Our team met and discussed the logistics for starting our prototype and what to buy/what to do during our class time. 
+### Our team met and discussed the logistics for starting our prototype and what to buy/what to do during our class time. We also modified our timeline.

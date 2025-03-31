@@ -2,7 +2,7 @@
 
 ## ECSE 395 
 ## 03/28/25
-## We met on friday and here are my notes:
+## We met on friday to discuss our timeline and what we're going to do next week. Here are my notes:
 
 ## Summary:
 
