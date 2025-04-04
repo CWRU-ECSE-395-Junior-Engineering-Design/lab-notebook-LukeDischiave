@@ -9,7 +9,7 @@ We finalized some ideas for powering our prototype. We are going to use 5 AA alk
 
 Joseph created a Github for us to contribute to. He also started to program the prototype. He's starting to design the study for our prototype now. 
 
-I measured the current of the ESP32 with 4 LEDS fully on and at around 30% brightness. Then, I measured the current with no LEDs (or anything connected to the ESP32) to find our nominal current draw. I still have yet to measure the current draw for when the ESP32 is in deep sleep mode and when it's in light sleep mode. Overall, these measurements are all to ensure that we are optimizing battery life. 
+I measured the current of the ESP32 with 4 LEDS fully on and at around 30% brightness using the Sears lab equipment. Then, I measured the current with no LEDs (or anything connected to the ESP32) to find our nominal current draw. I still have yet to measure the current draw for when the ESP32 is in deep sleep mode and when it's in light sleep mode. Overall, these measurements are all to ensure that we are optimizing battery life. 
 ## 4 LED full brightness current draw ~160-170mA
 ![](Pasted%20image%2020250404150929.png)
 
