@@ -36,3 +36,6 @@
 
 ## Week12.md
 ### Our team is meeting and starting to assemble the prototype.
+
+## Week13.md
+### Our team is meeting assembling the prototype and starting to program the ESP32, along with taking logistical measurements to improve battery life. 
