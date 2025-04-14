@@ -39,3 +39,6 @@
 
 ## Week13.md
 ### Our team is meeting assembling the prototype and starting to program the ESP32, along with taking logistical measurements to improve battery life. 
+
+## Week14.md
+### Our team is assembling the prototype and programming the ESP32. We are behind schedule because of logistical problems. We finished our study design.
