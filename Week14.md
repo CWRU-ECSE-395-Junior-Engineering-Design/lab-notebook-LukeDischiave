@@ -17,3 +17,28 @@ Joseph created a github for us to contribute to with the ESP32 code. Joseph fini
 ![](Ecse%20395_250414_115143_2.jpg)
 ![](Ecse%20395_250414_115143_3.jpg)
 ![](Ecse%20395_250414_115143_4.jpg)![](Ecse%20395_250414_115143_5.jpg)
+also here are some metrics:
+
+0.013mA -> nominal power in deep sleep mode
+5.15mA -> nominal power in light sleep mode with our code
+69mA -> nominal power normal operation
+
+
+LEDs
+4 70/255 brightness
+92mA total power -> ~6mA per LED
+
+4 full brightness
+167mA total power -> ~25mA per LED
+
+
+For our batteries:
+
+Low drain devices (~25 mA): Up to ~3,000 mAh
+
+Moderate drain (~250 mA): Closer to ~2,000–2,500 mAh
+
+
+We can expect a battery life of around 2800mAh per battery
+
+three batteries in series ~= 8400mAh
