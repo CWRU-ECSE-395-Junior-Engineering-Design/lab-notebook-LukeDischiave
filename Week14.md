@@ -9,7 +9,7 @@ I worked on creating some battery life projections and statistical graphs. Attac
 
 But I started to experiment with light sleep mode for the minimum power draw. My initial readings show a nominal power draw of around 6mA, which is about 1/10 of the regular nominal power draw. Also, our LEDs + weight sensor should still work. This would massively increase battery life. I will do those calculations in the future. 
 
-As for the weight sensor, it arrived and I soldered them to an HX711 board in order to decode the readings. The readings were still garbled but it seems to reliable output a signal, so we're hoping that it will work when we assemble it. 
+As for the weight sensor, it arrived and I soldered them together in a wheatstone bridge, and then to an HX711 board in order to decode the readings. The readings were still garbled but it seems to reliable output a signal, so we're hoping that it will work when we assemble it. 
 
 Joseph created a github for us to contribute to with the ESP32 code. Joseph finished our study design and we're recruiting our classmates. Prof. Block said that we should recruit more than 10 people and each person has 4 tests. 8 people in class and 8 out of class. Plus we have a singular cat that we would like to test with. The tests will mainly consist of analyzing whether or not it's obvious how full the bowl is. 
 
