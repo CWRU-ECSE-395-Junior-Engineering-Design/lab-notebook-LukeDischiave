@@ -3,7 +3,7 @@
 ## ECSE 395 
 ## 4/14/25
 
-We are fixing our weight sensor, and we have our 3d printed bowl now. 
+We are attempting to fix our weight sensor, and we have our 3d printed bowl now. 
 
 set up the github so we can contribute to teh code at the same time. 
 
@@ -37,7 +37,29 @@ Deep sleep completely turns off and restarts the esp32. Needless to say, we don'
 
 I plan on assembling this prototype today and tomorrow with my free time. 
 
-Final prototype: 3 way switch: middle is off, left + right are food/water, switch to reset timer
+prototype assembled: 3 way switch: middle is off, left + right are food/water, switch to reset timer
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUe_O7lor_barX_xi1zTHYo8b_mV5nt0G5Qm3NPuaWs2nRw5r10vrpZx0FZUg9KZ-SXkgc42ll5IX4FOo0AjuWXrYbJe0-3n55w819Sot6BrJgcDQTfMxt-EVvNfKq6zJqYW1Ht4rA=s2048?key=OT30Wvxdf4ixLFxPr3sEPP5X "BowlInsideView.jpg")
+
+Computing battery life, pictures are shown. FInal result was roughly 24 hours, accounting for voltage regulator energy loss. The following shown is the presentation slide with equations used, and my notebook pages.
+![](Pasted%20image%2020250422100956.png)
+![](Pasted%20image%2020250422101015.png)
+
+
+
+
+
+
+
+
+
+![](Ecse%20395_250420_224026_6.jpg)
+![](Ecse%20395_250420_224026_7.jpg)
+![](Ecse%20395_250420_224026_8.jpg)
+![](Ecse%20395_250420_224026_9.jpg)
+![](Ecse%20395_250420_224026_10.jpg)
+
+![](Ecse%20395_250420_224026_11.jpg)
+
 
 
 
